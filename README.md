@@ -23,7 +23,7 @@ Features:
 Dimensions:
 6" H x 4" h x 12" L
       
-<img width="637" alt="Screenshot 2024-11-01 at 6 16 37 PM" src="https://github.com/user-attachments/assets/d0c87e03-3d5c-4468-9fb1-27e80e33feee">
+<img width="703" alt="Screenshot 2024-11-02 at 8 48 10 AM" src="https://github.com/user-attachments/assets/86ae3f35-0e5c-4dd1-8bf3-fb3e5cfc6325">
 
 Materials:
 
