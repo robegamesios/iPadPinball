@@ -25,7 +25,7 @@ Materials:
 1. Komatex PVC foam board - $12 https://www.homedepot.com/p/24-in-x-36-in-x-0-118-in-Scratch-Resistant-Cuttable-White-Foam-Project-Board-41435106/300199665
 2. Arcade buttons - $12 https://www.amazon.com/dp/B01MRWL6DW?ref=ppx_yo2ov_dt_b_fed_asin_title
 3. iOS encoder board - https://www.aliexpress.us/item/3256806706896769.html?spm=a2g0o.productlist.main.11.5d8b7dDe7dDemx&algo_pvid=b0aff102-122b-4338-be3c-42bc18388097&algo_exp_id=b0aff102-122b-4338-be3c-42bc18388097-5&pdp_npi=4%40dis%21USD%2120.67%218.48%21%21%21146.58%2160.10%21%402101c5ac17305107715381857ebc34%2112000038639589386%21sea%21US%210%21ABX&curPageLogUid=IM4HE8c1Wuan&utparam-url=scene%3Asearch%7Cquery_from%3A
-4. 3D printed parts - see STL folder
+4. 3D printed parts - see STL_Files folder
 
 
 
