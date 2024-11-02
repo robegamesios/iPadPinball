@@ -2,6 +2,9 @@
 
 Youtube tutorial: https://youtu.be/HfN3LbqFMZo?si=oTEUdA8PhOFT4ywL
 
+<img width="882" alt="Screenshot 2024-11-01 at 1 22 43 PM" src="https://github.com/user-attachments/assets/40af0b51-add2-4f7d-899f-76c426532068">
+
+
 This project transforms an iPad Pro 12.9" into a mini pinball machine inspired by the Sharpin Mini V3. Built using Komatex PVC board, 3D-printed braces, arcade buttons, and an iOS encoder board, this compact pinball cabinet captures the retro feel of an arcade with modern tech.
 
 Features:
